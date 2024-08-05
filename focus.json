@@ -1,0 +1,6 @@
+{
+    "version": "1.0",
+    "url": "https://github.com/Gfaerny/focus/archive/master.zip",
+    "extract_dir": "focus-main",
+    "bin": "focus.exe"
+}
