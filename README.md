@@ -8,7 +8,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 
-use this command for installing focus editor from scoop and can use it with command in your terminal
+use this command for installing focus editor with scoop then you can use focus editor in your terminal
 
 ``` bash
 scoop install https://raw.githubusercontent.com/Gfaerny/focus-editor-scooplink/main/focus.json
