@@ -1,6 +1,5 @@
 {
-    "version": "1.0",
-    "url": "https://github.com/Gfaerny/focus/archive/master.zip",
-    "extract_dir": "focus-main",
+    "version": "0.3.8",
+    "url": "https://github.com/focus-editor/focus/releases/download/0.3.8/focus.exe",
     "bin": "focus.exe"
 }
